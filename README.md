@@ -1,7 +1,7 @@
 # ML-Demo
 By Alexey Golgovskiy.
 ## A step-by-step demonstration of a machine learning task. This is a test task that I have solved before. It is not the most optimal way to solve this task, but it was created for demonstration purposes.
-(https://www.kaggle.com/code/aleximilian/churn-modeling-f1-95)
+([Link on Kaggle (imported)](https://www.kaggle.com/code/aleximilian/churn-modeling-task-f1-95))
 
 ### Task
 Churn modelling: Predicting whether the customer will leave.
